@@ -1,0 +1,11 @@
+
+
+	swipl
+
+	consult('c:/Users/joshu/Desktop/Repositorios/C#/Caballo/proyecto_prolog/PaseoCaballo.pl').
+
+	tell('C:/Users/joshu/Desktop/Repositorios/C#/Caballo/Caballo/bin/Debug/netcoreapp3.1/solucion.txt').
+
+	recorrido(0,0).
+
+	told.
